@@ -1,0 +1,28 @@
+{
+  "name": "baseballs",
+  "version": "1.0.0",
+  "type": "module",
+
+  "description": "",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bravepro/BaseBalls.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bravepro/BaseBalls/issues"
+  },
+  "homepage": "https://github.com/bravepro/BaseBalls#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "dotenv": "^17.2.3",
+    "ethers": "^5.8.0",
+    "hardhat": "^3.0.15"
+  }
+}
